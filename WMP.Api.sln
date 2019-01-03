@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMP.Api", "WMP.Api\WMP.Api.csproj", "{8A567C1C-DF1C-4F3B-9B2B-DF238BBADF37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WMP.Core", "WMP.Core\WMP.Core.csproj", "{2573209F-C490-4DE9-B4BA-634480017A4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A567C1C-DF1C-4F3B-9B2B-DF238BBADF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A567C1C-DF1C-4F3B-9B2B-DF238BBADF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A567C1C-DF1C-4F3B-9B2B-DF238BBADF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A567C1C-DF1C-4F3B-9B2B-DF238BBADF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2573209F-C490-4DE9-B4BA-634480017A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2573209F-C490-4DE9-B4BA-634480017A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2573209F-C490-4DE9-B4BA-634480017A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2573209F-C490-4DE9-B4BA-634480017A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5527DAF-3C5F-4669-B591-C8518F62A6DA}
+	EndGlobalSection
+EndGlobal
