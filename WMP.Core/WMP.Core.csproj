@@ -56,6 +56,8 @@
   <ItemGroup>
     <Compile Include="exception\Error.cs" />
     <Compile Include="exception\ErrorResult.cs" />
+    <Compile Include="exception\ExceptionArgs.cs" />
+    <Compile Include="exception\GeneralException.cs" />
     <Compile Include="exception\GlobalExceptionHandler.cs" />
     <Compile Include="extension\DictionaryExtension.cs" />
     <Compile Include="extension\ErrorExtension.cs" />
